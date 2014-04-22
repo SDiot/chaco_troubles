@@ -1,4 +1,4 @@
-""" Simple example to show that aspect_ratio for ZoomTool is not working
+""" Simple example to show that aspect_ratio for ZoomTool is not working well
 
     HOW TO:
         1) Run ZoomTool_AspectRatio.py

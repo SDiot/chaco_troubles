@@ -6,6 +6,8 @@
             a) the overlay must be square since aspect_ratio is 1
             b) make sur the mouse is far from the ending corner of the overlay when unclicking
         3) Zoom out by scrolling and see how the aspect ratio has changed!
+        
+    FIX: Comment line 330 of file better_selecting_zoom.py in chaco directory
 """
 
 #-------------------------------------------------------------------------------

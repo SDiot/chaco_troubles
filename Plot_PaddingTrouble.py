@@ -74,9 +74,6 @@ class TestPlot(HasTraits):
 
     #---------------------------------------------------------------------------
     def _replot_fired(self):
-        self.plot.x_axis.mapper.range.set(low=0, high=2)
-        self.plot.y_axis.mapper.range.set(low=0, high=2)
-        self.plot.aspect_ratio = 1.0
         self.plot_please(self.plotdata)
 
 

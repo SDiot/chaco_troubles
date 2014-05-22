@@ -4,6 +4,8 @@
         1) Run Plot_PaddingTrouple.py
         2) Click on Replot ===> the padding is not taken into account while it
                                 is enforced in plot_please... Why??
+
+    FIX: Use an OverlayPlotContainer to contain the plot!
 """
 
 #-------------------------------------------------------------------------------

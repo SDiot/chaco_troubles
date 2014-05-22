@@ -6,6 +6,8 @@
         3) Click on Reset Asp. Ratio
         4) Click on Reset View ===> the plot is not taking all the room it could!
         5) Resize the window ===> the plot is now taking all the room it can!
+
+    FIX: Use an OverlayPlotContainer to contain the plot! 
 """
 
 #-------------------------------------------------------------------------------
